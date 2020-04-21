@@ -1,4 +1,4 @@
-# R2PWN
+# r2Attach
 
 I was really gelous about gdb.attach() of pwntools, so...
 This is a basic python script that can help you for debug your exploits with radare2.
